@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+ParsingExercise/.vs/ParsingExercise/DesignTimeBuild/.dtbcache
+ParsingExercise/.vs/ParsingExercise/v16/.suo
+*.lock
+*.ide
+*.json
+*.pdb
+*.cache
+*.txt
+*.props
+*.targets
