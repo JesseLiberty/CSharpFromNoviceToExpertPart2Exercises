@@ -26,6 +26,7 @@ namespace DelegateExercise
 
    public class Converter
    {
+      
       public string Convert(int left, string right)
       {
          return left.ToString() + " " + right;
